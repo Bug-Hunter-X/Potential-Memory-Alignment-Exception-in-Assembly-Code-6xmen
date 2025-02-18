@@ -1,0 +1,3 @@
+# Potential Memory Alignment Exception in Assembly
+
+This repository demonstrates a potential bug in assembly code related to memory alignment. The `bug.asm` file contains code that may throw an exception if the memory locations accessed are not properly aligned.  The `bugSolution.asm` file provides a corrected version which handles alignment correctly.  This is a common but subtle error that can be challenging to debug.
